@@ -8,7 +8,7 @@ type ButtonProps = {
   onClick?:  React.MouseEventHandler<HTMLButtonElement>,
   children: React.ReactNode,
   px?: string,
-  white?: string,
+  white?: boolean,
 }
 const Button = ({className, href, onClick, children, px, white}:ButtonProps) => {
     const classes=cn(

@@ -37,4 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 1. What is Backdrop in CSS?
-2.
+2. Scroll Lock
+3. React Just Parallax 
