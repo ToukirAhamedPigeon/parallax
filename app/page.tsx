@@ -1,4 +1,4 @@
-import Benifits from "@/components/Benifits";
+import Benefits from "@/components/Benefits";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import ButtonGradiant  from "@/public/assets/svg/ButtonGradient";
@@ -9,7 +9,7 @@ export default function Home() {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
         <Header/>
         <Hero/>
-        <Benifits/>
+        <Benefits/>
       </div>
       <ButtonGradiant/>
     </>
